@@ -1,0 +1,6 @@
+D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.exe
+D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.MyForm.resources
+D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.vcxproj.GenerateResource.cache
+D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.MyForm2.resources
+D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.MyForm11.resources
+D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.vcxproj.AssemblyReference.cache

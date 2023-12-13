@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Razrabotka\C++\Projects\CulinaryBook\MyForm11.h(111,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Razrabotka\C++\Projects\CulinaryBook\MyForm11.h(116,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Razrabotka\C++\Projects\CulinaryBook\MyForm11.h(109,13): warning C4101: k: неиспользованная локальная переменная
+  MyForm2.cpp
+  Создание кода...
+  Hash.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CulinaryBook.vcxproj -> D:\Razrabotka\C++\Projects\CulinaryBook\Debug\CulinaryBook.exe
